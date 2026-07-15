@@ -1,11 +1,21 @@
+# Nodets Canil 🐕
 
+## Como Rodar no Seu PC
 
-### como rodar no seu pc
-# requisitos globais 
-`npm install -g nodemon typescript ts-node`
+### Requisitos Globais
 
-### instalação 
-`npm install`
+```bash
+npm install -g nodemon typescript ts-node
+```
 
-### e para rodar o projeto 
-`npm run start-dev`
+### Instalação
+
+```bash
+npm install
+```
+
+### Executar o Projeto
+
+```bash
+npm run start-dev
+```
